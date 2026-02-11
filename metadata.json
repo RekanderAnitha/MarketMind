@@ -1,0 +1,8 @@
+{
+  "name": "MarketMind AI",
+  "description": "A high-performance Generative AI-powered sales and marketing intelligence platform featuring Synexia, a Data Narrator, and an AI Risk Alert System.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
